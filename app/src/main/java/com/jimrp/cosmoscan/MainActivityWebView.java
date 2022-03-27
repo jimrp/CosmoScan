@@ -19,7 +19,7 @@ import android.widget.Toast;
 
 public class MainActivityWebView extends AppCompatActivity {
 
-    private Button btnPrint, btnRescan;
+    private Button btnPrint, btnRescan, btnThermal;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,6 +28,7 @@ public class MainActivityWebView extends AppCompatActivity {
 
         btnPrint = (Button) findViewById(R.id.button1);
         btnRescan = (Button) findViewById(R.id.button2);
+        btnThermal = (Button) findViewById(R.id.button3);
         WebView myWebView = (WebView) findViewById(R.id.webviewdefault);
         WebSettings webSettings = myWebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
@@ -46,6 +47,13 @@ public class MainActivityWebView extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 finish();
+            }
+        });
+
+        btnThermal.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
             }
         });
 
