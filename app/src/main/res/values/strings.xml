@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CosmoScan</string>
+    <string name="option1">ΣΚΑΝΑΡΕ</string>
+    <string name="text1">ΣΥΜΠΛΗΡΩΣΕ ΤΡΑΠΕΖΙ (ΑΝ ΘΕΣ)</string>
+    <string name="button1">ΟΚ</string>
+    <string name="exit">Πάτησε πάλι πίσω για έξοδο</string>
+    <string name="permok">Η άδεια δόθηκε!</string>
+    <string name="permask">Είναι απαραίτητο να δοθεί η άδεια.</string>
+    <string name="email" translatable="false">e-mail: jimakosrp@gmail.com</string>
+    <string name="aboutbutton">Σχετικά</string>
+    <string name="copyrights" translatable="false">©2022 CosmoScan is created by Dimitris Ripis. All rights reserved.</string>
+    <string name="about_first">Για διορθώσεις/προτάσεις μπορείτε να μου στείλετε e-mail στο:</string>
+    <string name="cancel">Άκυρο</string>
+    <string name="searchweb">Αναζήτηση στο διαδίκτυο</string>
+    <string name="result">Αποτέλεσμα</string>
+    <string name="question1">Θέλεις να επισκεφθείς αυτή τη σελίδα;</string>
+    <string name="visit">Πήγαινε</string>
+</resources>
