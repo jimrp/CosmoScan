@@ -53,7 +53,7 @@ public class MainActivityWebView extends AppCompatActivity {
         btnThermal.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //test2 commit
+                //COMMIT_COSMOMARKET_TEST1
 
             }
         });
